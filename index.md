@@ -71,6 +71,7 @@ Easier to understand => better review
 
 We performed a heuristic walkthrough of three different systems
 for reviewing patches:
+
 * Github;
 * Bitbucket; and
 * Reviewable.
@@ -85,19 +86,6 @@ Several real patches submitted to the Rust standard library's code base were sel
 * A significant refactor
 
 
-# Heuristics
-
-ITSM Heuristics:
-
-1. Visibility of activity status
-1. History of actions and changes on artifacts
-1. Flexible representation of information
-1. Rules and constraints
-1. Planning and dividing work between users
-1. Capturing, sharing, and discovery of knowledge
-1. Verification of knowledge
-
-
 # Task-Based Evaluation
 
 First, several scenarios were considered:
@@ -109,6 +97,19 @@ First, several scenarios were considered:
 * View results from continuous-integration
 
 For each type of patch and scenario, one expert reviewed and one submitted.
+
+
+# Heuristics
+
+ITSM Heuristics:
+
+1. Visibility of activity status
+1. History of actions and changes on artifacts
+1. Flexible representation of information
+1. Rules and constraints
+1. Planning and dividing work between users
+1. Capturing, sharing, and discovery of knowledge
+1. Verification of knowledge
 
 
 # Evaluation Criteria
