@@ -116,5 +116,10 @@ After completing tasks with the heuristics in mind, we compare results.
 Some low hanging fruit (URL toggle for whitespace, history sometimes not well
 represented)
 
-# Questions?
+# Summary
+
+* Programming is hard.
+* Code reviews mitigate errors.
+* Interfaces for code reviews are... &#128169;.
+* We want to make things better.
 
