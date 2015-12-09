@@ -1,6 +1,8 @@
 % Code Review Usability
 
-Alexis Beingessner + Bheesham Persaud
+<center>Alexis Beingessner</center>
+
+<center>Bheesham Persaud</center>
 
 
 
@@ -25,8 +27,8 @@ Any error can become a security vulnerability.
 
 # Computers
 
-* Before merging: continuous integration (Travis, Jenkins)
-* After merging: auditing tools (Coverity, AFL)
+* Before merging: continuous integration (Travis)
+* After merging: program analysis (Coverity, AFL)
 
 
 
@@ -52,7 +54,34 @@ Any error can become a security vulnerability.
 
 
 
-# Reviewing Code
+
+# Patch Review
+
+* First defense against errors
+* Frequently performed
+* Good interfaces important
+
+
+
+
+
+# Diffs
+
+Patches are usually presented as a *diff*
+
+![diff.png](diff.png)
+
+
+
+
+# Better Diffs
+
+Github emphasizes what actually changed:
+
+![github-diff.png](github-diff.png)
+
+Easier to understand => better review
+
 
 
 
