@@ -88,6 +88,35 @@ Easier to understand => better review
 
 
 
+# Heuristics
+
+Build from heuristics proposed by Jaferian et al.
+
+# H1 - Visibility of activity status
+
+Lorem.
+
+# H2
+
+Lorem.
+
+# H3
+
+Lorem.
+
+# H4
+
+Lorem.
+
+
+
+# Works Consulted
+
+<small>P. Jaferian, K. Hawkey, A. Sotirakopoulos, M. Velez-Rojas, and K.
+Beznosov. Heuristics for evaluating it security management tools. In Proceedings
+of the Seventh Symposium on Usable Privacy and Security , SOUPS ’11, pages
+7:1–7:20, New York, NY, USA, 2011. ACM.</small>
+
 
 # Heuristic Walkthrough of Patch Review
 
