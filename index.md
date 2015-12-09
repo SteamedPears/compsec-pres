@@ -1,4 +1,4 @@
-% Code Review Usability
+% Patch Review Usability
 
 <center>Alexis Beingessner</center>
 
@@ -71,17 +71,71 @@ Patches are usually presented as a *diff*
 
 ![diff.png](diff.png)
 
+but diffs can be difficult to understand
+
+
 
 
 
 # Better Diffs
 
-Github emphasizes what actually changed:
+One can emphasize parts that "really" changed:
 
 ![github-diff.png](github-diff.png)
 
 Easier to understand => better review
 
+
+
+
+
+# Heuristic Walkthrough of Patch Review
+
+We performed a heuristic walkthrough of three different systems
+for reviewing patches: Github, Bitbucket, and Reviewable.
+
+
+
+
+
+# The Patches
+
+Several real patches submitted to the Rust standard library's code base
+were selected, ranging from trivial to complex:
+
+* A change that adds tests
+* A small update
+* A significant refactor
+
+
+
+
+
+# Task-Based Evaluation
+
+First, several scenarios were considered:
+
+* View the proposed change
+* View updates to the proposed change
+* View the current reviews of the change
+* View the outstanding issues with the change
+* View results from continuous-integration
+
+
+
+
+
+# Task-Based Evaluation
+
+For each type of patch and scenario,
+one expert reviewed, and one submitted.
+
+
+
+
+# Evaluation Criteria
+
+???
 
 
 
