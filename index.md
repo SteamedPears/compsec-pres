@@ -86,7 +86,7 @@ Several real patches submitted to the Rust standard library's code base were sel
 * A significant refactor
 
 
-# Task-Based Evaluation
+# Tasks
 
 First, several scenarios were considered:
 
