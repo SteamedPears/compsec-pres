@@ -70,7 +70,10 @@ Easier to understand => better review
 # Heuristic Walkthrough of Patch Review
 
 We performed a heuristic walkthrough of three different systems
-for reviewing patches: Github, Bitbucket, and Reviewable.
+for reviewing patches:
+* Github;
+* Bitbucket; and
+* Reviewable.
 
 
 # The Patches
@@ -88,11 +91,11 @@ ITSM Heuristics:
 
 1. Visibility of activity status
 1. History of actions and changes on artifacts
-1. Flexiple representation of information
+1. Flexible representation of information
 1. Rules and constraints
 1. Planning and dividing work between users
 1. Capturing, sharing, and discovery of knowledge
-1. Verifcation of knowledge
+1. Verification of knowledge
 
 
 # Task-Based Evaluation
